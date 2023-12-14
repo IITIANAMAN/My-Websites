@@ -1,0 +1,108 @@
+body{
+    padding-top: 0px;
+    
+    background-image:url("BACK2.jpg");
+      
+    padding: 0px;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#Start{
+    background-color: red;
+    color: white;
+    shape-margin: 20px;
+    height: 58px;
+    width: 201px;
+    border-radius:7px ;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;  
+    position: relative;
+    top: -59px;
+    left: 2px;  
+}
+#SignIn{
+    background-color: red;
+    color: white;
+    height: 35px;
+    width: 81px;
+    border-radius: 5px;
+   text-align: center;
+   margin-left: 1380px;
+   margin-top: 20px;
+   
+   
+
+    
+   }
+   img{
+    padding-top: 59px;
+    padding-left: 41px;
+    height: 42px;
+    width: 193px;
+    margin-right: 1136px;
+   }
+   #Email{
+    width: 370px;
+    height: 48px;
+    font-size: medium;
+    background-color: #222831;
+    border: white solid;
+    /* opacity: 50%; */
+    font-weight: 900;
+    padding-left: 14px;
+    position: relative;
+    top: -58px;
+    left: 1px;
+    
+
+   }
+   #DivOfLogo{
+    width: 0px;
+    height: 13px;
+    position: relative;
+    top: -14px;
+    left: -5px;
+   }
+   #DivofStart{
+    position: relative;
+    top: 420px;
+    left: 142px;
+   }
+   header{
+    margin: -8px;
+   }
+   h1{
+    font-size: xxx-large;
+    font-weight: 900;
+    color: white;
+    position: relative;
+    top: -170px;
+    left: -2px;
+    height: 2px;
+   }
+   h3{
+    font-weight: 400;
+    color: white;
+    position: relative;
+    top: -75px;
+    left: -2px;
+   }
+   h4{
+    font-weight: 700;
+    color: grey;
+    position: relative;
+    top: -52px;
+    left: -2px;
+   }
+   select{
+    position: relative;
+    top: -57px;
+    left: 1264px;
+    height: 34px;
+    width: 113px;
+    text-align: center;
+    font-size: medium;
+    border-radius: 4px;
+   }
